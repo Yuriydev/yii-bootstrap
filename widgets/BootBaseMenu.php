@@ -7,6 +7,7 @@
  * @package bootstrap.widgets
  */
 
+Yii::import('bootstrap.widgets.BootWidget');
 abstract class BootBaseMenu extends BootWidget
 {
 	/**
